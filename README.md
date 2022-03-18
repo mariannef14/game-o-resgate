@@ -1,4 +1,4 @@
-﻿ #### Objetivo do jogo
+### Objetivo do jogo
 Resgatar o personagem.
 
 ### Como funciona?
